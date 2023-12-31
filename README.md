@@ -1,5 +1,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=qasirdev&color=blue)
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
 
@@ -58,7 +57,7 @@ Others
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="http://www.qasir.co.uk/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio%20with%20Docker-D16f37?style=flat&logo=qase&logoColor=white"/></a>
+<a href="http://www.qasir.co.uk/" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/-Portfolio%20with%20Docker-D16f37?style=flat&logo=qase&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/qasir/" target="_blank"><img src="https://img.shields.io/badge/-qasirdev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:qasirdev@gmail.com"><img src="https://img.shields.io/badge/-qasirdev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:hello@qasir.co.uk"><img src="https://img.shields.io/badge/hello@qasir.co.uk-31DA1F2?style=flat&logo=theconversation&logoColor=white"/></a>
