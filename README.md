@@ -11,7 +11,7 @@
 
 Frontend Skills:   
 
-![javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&logoColor=F7DF1E) ![react](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB) ![redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=007ACC) ![reduxsaga](https://img.shields.io/badge/-Redux%20thunk-05122A?style=flat&logo=reduxsaga&logoColor=999999) ![typescript](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=typescript&logoColor=3178C6) ![graphql](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;
+![javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&logoColor=F7DF1E) ![react](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB) ![redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=007ACC) ![reduxsaga](https://img.shields.io/badge/-Redux%20thunk-05122A?style=flat&logo=reduxsaga&logoColor=999999) ![typescript](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=typescript&logoColor=3178C6) ![graphql](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql&logoColor=E10098) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ![nodedotjs](https://img.shields.io/badge/-Node%20js-05122A?style=flat&logo=nodedotjs&logoColor=339933) ![angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=0F0F11) ![emberdotjs](https://img.shields.io/badge/-Ember%20js-05122A?style=flat&logo=emberdotjs&logoColor=E04E39) ![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python&logoColor=3776AB) ![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20Sql%20Server-05122A?style=flat&logo=microsoftsqlserver&logoColor=CC2927) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 
@@ -21,33 +21,40 @@ Frontend Skills:
 ![emberdotjs](https://img.shields.io/badge/-Ember%20Cli-05122A?style=flat&logo=emberdotjs&logoColor=E04E39)
 ![css3](https://img.shields.io/badge/-Css3-05122A?style=flat&logo=css3&logoColor=1572B6)
 ![sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass&logoColor=CC6699)
+![tailwindcss](https://img.shields.io/badge/-Tailwind%20Css-05122A?style=flat&logo=tailwindcss&logoColor=06B6D4)
 ![less](https://img.shields.io/badge/-Less-05122A?style=flat&logo=less&logoColor=1177AA)&nbsp;
 
 Testing:  
-👉🏾	TDD  
-👉🏾	BDD  
-👉🏾	Unit Testing  
-👉🏾	Integration Testing  
-👉🏾	Acceptance Testing  
+![jest](https://img.shields.io/badge/-TDD-05122A?style=flat&logo=jest&logoColor=C21325)
+![cucumber](https://img.shields.io/badge/-BDD-05122A?style=flat&logo=cucumber&logoColor=23D96C)
+![unity](https://img.shields.io/badge/-Unit%20Testing-05122A?style=flat&logo=unity&logoColor=E04E39)
+![jasmine](https://img.shields.io/badge/-Integration%20Testing-05122A?style=flat&logo=jasmine&logoColor=8A4182)
+![cypress](https://img.shields.io/badge/-Acceptance%20Testing-05122A?style=flat&logo=cypress&logoColor=69D3A7)&nbsp;
 
 Operation Systems:  
-👉🏾	MAC OS  
-👉🏾	Windows  
+![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)
+![windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=0078D4)&nbsp;
 
 Tools  
-👉🏾	Github  
-👉🏾	SVN  
-👉🏾	Bitbucket  
-👉🏾	JIRA  
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-👉🏾	Visual Code  
-👉🏾	Atom  
+![github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github&logoColor=007ACC)
+![bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket&logoColor=0052CC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) 
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) 
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+
 
 Others  
-👉🏾	Team management  
-👉🏾	Agile, Scrums  
-👉🏾	Working directly with clients  
+![microsoftteams](https://img.shields.io/badge/-Team%20management-05122A?style=flat&logo=microsoftteams&logoColor=6264A7)
+![scratch](https://img.shields.io/badge/-Agile,%20Scrums-05122A?style=flat&logo=scratch&logoColor=4D97FF)
+![upwork](https://img.shields.io/badge/-Working%20directly%20with%20clients-05122A?style=flat&logo=upwork&logoColor=6FDA44)&nbsp; 
 
+### Let's connect ? 🤝
+
+<p align="left">
+<a href="https://www.linkedin.com/in/qasir/"><img src="https://img.shields.io/badge/-qasirdev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:qasirdev@gmail.com"><img src="https://img.shields.io/badge/-qasirdev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:hello@qasir.co.uk"><img src="https://img.shields.io/badge/hello@qasir.co.uk-31DA1F2?style=flat&logo=theconversation&logoColor=white"/></a>
+</p>
 <!--
 **qasirdev/qasirdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
