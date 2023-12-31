@@ -7,6 +7,10 @@
 
 ![qasir-grid-snake](https://github.com/qasirdev/qasir-profile/assets/19289683/72610223-a611-422c-8267-02498e6bb193)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
 
+I enjoy tackling challenging tasks and embracing new learning experiences.
+
+With over 10 years of experience in the software field, I have had the opportunity to contribute to remarkable projects, allowing me to showcase my strengths and continuously acquire new skills.
+
 ### Languages & Tools 🛠
 
 Frontend Skills:   
