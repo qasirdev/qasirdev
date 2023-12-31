@@ -65,6 +65,7 @@ Others
 <!--
 https://github.com/GuillaumeFalourd
 https://github.com/anuraghazra/github-readme-stats
+https://simpleicons.org/
 -->
 Only a few my projects are available on [Github](https://github.com/qasirdev) most of them are on private servers or BitBucket, so what you see here is just a glimpse.
 
