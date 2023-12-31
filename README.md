@@ -15,13 +15,13 @@ With over 10 years of experience in the software field, I have had the opportuni
 
 Frontend Skills:   
 
-![javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&logoColor=F7DF1E) ![react](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB) ![redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=007ACC) ![reduxsaga](https://img.shields.io/badge/-Redux%20thunk-05122A?style=flat&logo=reduxsaga&logoColor=999999) ![typescript](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=typescript&logoColor=3178C6) ![graphql](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;
+![javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&logoColor=F7DF1E) ![react](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB) ![redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=007ACC) ![reduxsaga](https://img.shields.io/badge/-Redux%20thunk-05122A?style=flat&logo=reduxsaga&logoColor=999999) ![typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=3178C6) ![graphql](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;
 
-![nodedotjs](https://img.shields.io/badge/-Node%20js-05122A?style=flat&logo=nodedotjs&logoColor=339933) ![angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=0F0F11) ![emberdotjs](https://img.shields.io/badge/-Ember%20js-05122A?style=flat&logo=emberdotjs&logoColor=E04E39) ![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python&logoColor=3776AB) ![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20Sql%20Server-05122A?style=flat&logo=microsoftsqlserver&logoColor=CC2927) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![nodedotjs](https://img.shields.io/badge/-Node%20js-05122A?style=flat&logo=nodedotjs&logoColor=339933) ![angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=0F0F11) ![emberdotjs](https://img.shields.io/badge/-Ember%20js-05122A?style=flat&logo=emberdotjs&logoColor=E04E39) ![python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB) ![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20Sql%20Server-05122A?style=flat&logo=microsoftsqlserver&logoColor=CC2927) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 
 ![openai](https://img.shields.io/badge/-Openai-05122A?style=flat&logo=openai&logoColor=412991)
 ![jquery](https://img.shields.io/badge/-jquery-05122A?style=flat&logo=jquery&logoColor=0769AD)
-![html5](https://img.shields.io/badge/-Nhtml5-05122A?style=flat&logo=html5&logoColor=E34F26)
+![html5](https://img.shields.io/badge/-Html5-05122A?style=flat&logo=html5&logoColor=E34F26)
 ![handlebarsdotjs](https://img.shields.io/badge/-handlebars%20js-05122A?style=flat&logo=handlebarsdotjs&logoColor=23FFB0)
 ![emberdotjs](https://img.shields.io/badge/-Ember%20Cli-05122A?style=flat&logo=emberdotjs&logoColor=E04E39)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -58,7 +58,7 @@ Others
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="http://www.qasir.co.uk/" target="_blank"><img src="https://img.shields.io/badge/-Qasir%20Portfolio%20Website-D16f37?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="http://www.qasir.co.uk/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio%20Website%20-Docker-D16f37?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/qasir/" target="_blank"><img src="https://img.shields.io/badge/-qasirdev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:qasirdev@gmail.com"><img src="https://img.shields.io/badge/-qasirdev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:hello@qasir.co.uk"><img src="https://img.shields.io/badge/hello@qasir.co.uk-31DA1F2?style=flat&logo=theconversation&logoColor=white"/></a>
