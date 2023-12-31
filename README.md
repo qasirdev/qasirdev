@@ -1,8 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=qasirdev&color=blue)
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 
-
-### I'm a Frontend Developer living in 🇬🇧 and working at [British Gas](https://www.britishgas.co.uk/).
+### I'm a Senior Frontend Developer :computer: living in 🇬🇧 and working at [British Gas](https://www.britishgas.co.uk/).
 
 ![qasir-grid-snake](https://github.com/qasirdev/qasir-profile/assets/19289683/72610223-a611-422c-8267-02498e6bb193)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
 
@@ -54,7 +53,7 @@ Others
 ![scratch](https://img.shields.io/badge/-Agile,%20Scrums-05122A?style=flat&logo=scratch&logoColor=4D97FF)
 ![upwork](https://img.shields.io/badge/-Working%20directly%20with%20clients-05122A?style=flat&logo=upwork&logoColor=6FDA44)&nbsp; 
 
-### Let's connect ? 🤝
+### Let's connect ? <img src='https://github.com/qasirdev/qasirdev/assets/19289683/9c07b01b-9a2e-461f-afdb-ba887cb95c25' width="100px">
 
 <p align="left">
 <a href="http://www.qasir.co.uk/"><img src="https://img.shields.io/badge/-Portfolio%20with%20Docker-D16f37?style=flat&logo=qase&logoColor=white"/></a>
@@ -62,6 +61,18 @@ Others
 <a href="mailto:qasirdev@gmail.com"><img src="https://img.shields.io/badge/-qasirdev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:hello@qasir.co.uk"><img src="https://img.shields.io/badge/hello@qasir.co.uk-31DA1F2?style=flat&logo=theconversation&logoColor=white"/></a>
 </p>
+
+<!--
+https://github.com/GuillaumeFalourd
+https://github.com/anuraghazra/github-readme-stats
+-->
+Only a few my projects are available on [Github](https://github.com/qasirdev) most of them are on private servers or BitBucket, so what you see here is just a glimpse.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qasirdev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasirdev&layout=donut)](https://github.com/qasirdev/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qasirdev&repo=qasir-profile)](https://github.com/qasirdev/qasir-profile)
+
 <!--
 **qasirdev/qasirdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
