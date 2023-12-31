@@ -63,9 +63,9 @@ Others
 <a href="mailto:hello@qasir.co.uk"><img src="https://img.shields.io/badge/hello@qasir.co.uk-31DA1F2?style=flat&logo=theconversation&logoColor=white"/></a>
 </p>
 
-<a target="_blank" rel="noopener noreferrer" href="http://example.com">test1</a>
-<a target="_blank" href="relative/path/in/the/host">test2</a>
-<a target="_blank" href="/absolute/path/in/the/host">test3</a>
+<a target="_blank" rel="noopener noreferrer" href="http://www.qasir.co.uk/">test1</a>
+<a target="_blank" href="http://www.qasir.co.uk/">test2</a>
+<a target="_blank" href="http://www.qasir.co.uk/">test3</a>
 <!--
 **qasirdev/qasirdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
