@@ -15,14 +15,17 @@ With over 10 years of experience in the software field, I have had the opportuni
 
 Frontend Skills:   
 
-![javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&logoColor=F7DF1E) ![react](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB) ![redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=007ACC) ![reduxsaga](https://img.shields.io/badge/-Redux%20thunk-05122A?style=flat&logo=reduxsaga&logoColor=999999) ![typescript](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=typescript&logoColor=3178C6) ![graphql](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql&logoColor=E10098) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&logoColor=F7DF1E) ![react](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB) ![redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=007ACC) ![reduxsaga](https://img.shields.io/badge/-Redux%20thunk-05122A?style=flat&logo=reduxsaga&logoColor=999999) ![typescript](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=typescript&logoColor=3178C6) ![graphql](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;
 
 ![nodedotjs](https://img.shields.io/badge/-Node%20js-05122A?style=flat&logo=nodedotjs&logoColor=339933) ![angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=0F0F11) ![emberdotjs](https://img.shields.io/badge/-Ember%20js-05122A?style=flat&logo=emberdotjs&logoColor=E04E39) ![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python&logoColor=3776AB) ![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20Sql%20Server-05122A?style=flat&logo=microsoftsqlserver&logoColor=CC2927) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 
+![openai](https://img.shields.io/badge/-Openai-05122A?style=flat&logo=openai&logoColor=412991)
 ![jquery](https://img.shields.io/badge/-jquery-05122A?style=flat&logo=jquery&logoColor=0769AD)
 ![html5](https://img.shields.io/badge/-Nhtml5-05122A?style=flat&logo=html5&logoColor=E34F26)
 ![handlebarsdotjs](https://img.shields.io/badge/-handlebars%20js-05122A?style=flat&logo=handlebarsdotjs&logoColor=23FFB0)
 ![emberdotjs](https://img.shields.io/badge/-Ember%20Cli-05122A?style=flat&logo=emberdotjs&logoColor=E04E39)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
 ![css3](https://img.shields.io/badge/-Css3-05122A?style=flat&logo=css3&logoColor=1572B6)
 ![sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass&logoColor=CC6699)
 ![tailwindcss](https://img.shields.io/badge/-Tailwind%20Css-05122A?style=flat&logo=tailwindcss&logoColor=06B6D4)
