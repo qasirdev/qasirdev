@@ -74,6 +74,8 @@ Only a few my projects are available on [Github](https://github.com/qasirdev) mo
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qasirdev&repo=qasir-profile)](https://github.com/qasirdev/qasir-profile)
 
+### Here's a snapshot of my GitHub work at British Gas:
+<img src='https://github.com/qasirdev/qasirdev/assets/19289683/96bc6229-bc62-4eab-b6ac-257c1bc4208b' width="300px">
 <!--
 **qasirdev/qasirdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
