@@ -1,13 +1,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=qasirdev&color=blue)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 
-### I'm a Senior Frontend Developer :computer: living in 🇬🇧 and working at [British Gas](https://www.britishgas.co.uk/).
+### I'm a Senior Frontend Developer :computer: living in 🇬🇧 and working at [IPCortex Ltd](https://ipcortex.co.uk/).
 
 ![qasir-grid-snake](https://github.com/qasirdev/qasir-profile/assets/19289683/72610223-a611-422c-8267-02498e6bb193)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
 
 I enjoy tackling challenging tasks and embracing new learning experiences.
 
-With over 10 years of experience in the software field, I have had the opportunity to contribute to remarkable projects, allowing me to showcase my strengths and continuously acquire new skills.
+With over 12 years of experience in the software field, I have had the opportunity to contribute to remarkable projects, allowing me to showcase my strengths and continuously acquire new skills.
 
 ### Languages & Tools 🛠
 
