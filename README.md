@@ -1,92 +1,165 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=qasirdev&color=blue)
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 
-### I'm a Senior Software Engineer :computer: living in 🇬🇧 and working at [IPCortex Ltd](https://ipcortex.co.uk/).
+# Qasir Mehmood
+
+**Senior Full-Stack Developer · Azure AI Engineer (AI-102) **  
+*Next.js · React · TypeScript · Python · FastAPI · Microsoft Azure · Generative AI · RAG · Agentic AI*
+
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Senior%20Full--Stack%20%7C%20AI%20Engineer-00C853?style=for-the-badge)](https://www.linkedin.com/in/qasir/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-qasir.co.uk-7c3aed?style=for-the-badge)](https://www.qasir.co.uk)
+[![Resume](https://img.shields.io/badge/Resume-ATS%20Plain%20Text-2563EB?style=for-the-badge)](https://www.qasir.co.uk/resume.txt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-qasir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qasir/)
+[![Email](https://img.shields.io/badge/Email-qasirdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qasirdev@gmail.com)
 
 ![qasir-grid-snake](https://github.com/qasirdev/qasir-profile/assets/19289683/72610223-a611-422c-8267-02498e6bb193)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
 
-I enjoy tackling challenging tasks and embracing new learning experiences.
+---
 
-With over 12 years of experience in the software field, I have had the opportunity to contribute to remarkable projects, allowing me to showcase my strengths and continuously acquire new skills.
+## Professional Summary
 
-### Languages & Tools 🛠
+Senior Full-Stack Developer and Azure AI Specialist with **12+ years** of experience building scalable, cloud-native applications for enterprise and SaaS platforms. Microsoft Certified **Azure AI Engineer Associate (AI-102)** with hands-on delivery of **Generative AI**, **RAG**, and **multi-agent** systems on Microsoft Azure.
 
-Frontend Skills:   
+I work at the intersection of **frontend engineering**, **backend systems**, and **applied AI** — applying solid engineering fundamentals, **security**, **testing**, and **clean architecture** to make AI systems genuinely production-ready.
 
-![javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&logoColor=F7DF1E) ![react](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB) ![redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=007ACC) ![reduxsaga](https://img.shields.io/badge/-Redux%20thunk-05122A?style=flat&logo=reduxsaga&logoColor=999999) ![typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=3178C6) ![graphql](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;
+**Open to:** Senior Full-Stack Developer · AI Engineer · Azure AI Solutions Consultant
 
-![nodedotjs](https://img.shields.io/badge/-Node%20js-05122A?style=flat&logo=nodedotjs&logoColor=339933) ![angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=0F0F11) ![emberdotjs](https://img.shields.io/badge/-Ember%20js-05122A?style=flat&logo=emberdotjs&logoColor=E04E39) ![python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB) ![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20Sql%20Server-05122A?style=flat&logo=microsoftsqlserver&logoColor=CC2927) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+**Location:** Luton, England, United Kingdom · **Availability:** Remote / Hybrid (UK)
 
-![openai](https://img.shields.io/badge/-Openai-05122A?style=flat&logo=openai&logoColor=412991)
-![jquery](https://img.shields.io/badge/-jquery-05122A?style=flat&logo=jquery&logoColor=0769AD)
-![html5](https://img.shields.io/badge/-Html5-05122A?style=flat&logo=html5&logoColor=E34F26)
-![handlebarsdotjs](https://img.shields.io/badge/-handlebars%20js-05122A?style=flat&logo=handlebarsdotjs&logoColor=23FFB0)
-![emberdotjs](https://img.shields.io/badge/-Ember%20Cli-05122A?style=flat&logo=emberdotjs&logoColor=E04E39)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+---
 
-![css3](https://img.shields.io/badge/-Css3-05122A?style=flat&logo=css3&logoColor=1572B6)
-![sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass&logoColor=CC6699)
-![tailwindcss](https://img.shields.io/badge/-Tailwind%20Css-05122A?style=flat&logo=tailwindcss&logoColor=06B6D4)
-![less](https://img.shields.io/badge/-Less-05122A?style=flat&logo=less&logoColor=1177AA)&nbsp;
+## Recent Highlights
 
-Testing:  
-![jest](https://img.shields.io/badge/-TDD-05122A?style=flat&logo=jest&logoColor=C21325)
-![cucumber](https://img.shields.io/badge/-BDD-05122A?style=flat&logo=cucumber&logoColor=23D96C)
-![unity](https://img.shields.io/badge/-Unit%20Testing-05122A?style=flat&logo=unity&logoColor=E04E39)
-![jasmine](https://img.shields.io/badge/-Integration%20Testing-05122A?style=flat&logo=jasmine&logoColor=8A4182)
-![cypress](https://img.shields.io/badge/-Acceptance%20Testing-05122A?style=flat&logo=cypress&logoColor=69D3A7)&nbsp;
+### Enterprise Client Delivery — Hecate Technologies (2025–2026)
 
-Operation Systems:  
-![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)
-![windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=0078D4)&nbsp;
+Delivered a **bilingual (EN/FA) enterprise platform** with full **RTL/LTR** support on **Next.js 15**, **React**, **TypeScript**, and **Python (FastAPI)** on **Microsoft Azure**:
 
-Tools  
-![github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github&logoColor=007ACC)
-![bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket&logoColor=0052CC)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) 
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+- **Azure Entra External ID (CIAM)** for customer identity and access management
+- **Azure Cosmos DB** with real-time features via **Server-Sent Events (SSE)**
+- **Azure AI Language Services** for sentiment analysis and content moderation
+- **Infrastructure as Code (Terraform)** and automated **CI/CD** with **GitHub Actions**
+- Monorepo architecture with **Turborepo** and **pnpm**, accessible **Material UI** design system
 
+### Production-Grade Personal Projects (2025–2026)
 
-Others  
-![microsoftteams](https://img.shields.io/badge/-Team%20management-05122A?style=flat&logo=microsoftteams&logoColor=6264A7)
-![scratch](https://img.shields.io/badge/-Agile,%20Scrums-05122A?style=flat&logo=scratch&logoColor=4D97FF)
-![upwork](https://img.shields.io/badge/-Working%20directly%20with%20clients-05122A?style=flat&logo=upwork&logoColor=6FDA44)&nbsp; 
+Building open-source-adjacent platforms to stay current with **2026 engineering standards**:
 
-### Let's connect ? <img src='https://github.com/qasirdev/qasirdev/assets/19289683/9c07b01b-9a2e-461f-afdb-ba887cb95c25' width="100px">
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| [**AI Daily Briefing Assistant**](https://github.com/qasirdev/daily-briefing) | LangGraph · FastAPI · Next.js 16 · PostgreSQL | **6-agent** pipeline with **OWASP GenAI Top 10** hardening, prompt injection defences, **CoALA** memory architecture, **MCP** integration, **1200+ tests** |
+| [**AI Job Discovery & Career Copilot**](https://github.com/qasirdev/job-discovery) | Temporal · FastAPI · Next.js 16 · pgvector | **8-agent** platform with **RAG** ranking, semantic job matching, **ATS-optimised** document generation, **OpenTelemetry** observability |
+| [**Developer Portfolio (qasir.co.uk)**](https://github.com/qasirdev/qasir-profile-ai) | Next.js 16 · React 19 · TypeScript · OpenRouter | LLM-powered **AI Digital Twin**, `/resume.txt` ATS endpoint, JSON-LD SEO, **Playwright** E2E, **Vitest** unit tests |
 
-<p align="left">
-<a href="http://www.qasir.co.uk/"><img src="https://img.shields.io/badge/-Portfolio%20with%20Docker-D16f37?style=flat&logo=qase&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/qasir/" target="_blank"><img src="https://img.shields.io/badge/-qasirdev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:qasirdev@gmail.com,hello@qasir.co.uk"><img src="https://img.shields.io/badge/-qasirdev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:hello@qasir.co.uk,qasirdev@gmail.com"><img src="https://img.shields.io/badge/hello@qasir.co.uk-31DA1F2?style=flat&logo=theconversation&logoColor=white"/></a>
-</p>
+---
 
-<!--
-https://github.com/GuillaumeFalourd
-https://github.com/anuraghazra/github-readme-stats
-https://simpleicons.org/
--->
-Only a few my projects are available on [Github](https://github.com/qasirdev) most of them are on private servers or BitBucket, so what you see here is just a glimpse.
+## Core Competencies
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qasirdev&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasirdev&layout=donut)](https://github.com/qasirdev/github-readme-stats)
+*ATS keyword block — aligned with 2026 industry role requirements*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qasirdev&repo=qasir-profile)](https://github.com/qasirdev/qasir-profile)
+**Languages:** JavaScript · TypeScript · Python · SQL · HTML5 · CSS3
 
-### Here's a snapshot of my GitHub work at British Gas:
-<img src='https://github.com/qasirdev/qasirdev/assets/19289683/96bc6229-bc62-4eab-b6ac-257c1bc4208b' width="300px">
-<!--
-**qasirdev/qasirdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend:** Next.js (App Router) · React 19 · Redux Toolkit · Zustand · Material UI · Tailwind CSS · WCAG 2.1 · Responsive Design · RTL/LTR Internationalisation
 
-Here are some ideas to get you started:
+**Backend:** Python 3.12+ · FastAPI · Node.js · Express.js · REST APIs · GraphQL · OAuth 2.0 · JWT · RBAC · Zod · Microservices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cloud & DevOps:** Microsoft Azure · Azure AI Services · Azure Cosmos DB · Azure Entra ID · AWS · Docker · Terraform · GitHub Actions · CI/CD · Vercel
+
+**AI & Data:** Generative AI · Retrieval-Augmented Generation (RAG) · Agentic AI · Multi-Agent Systems · LangGraph · Temporal · pgvector · Prompt Engineering · LLM Integration · MCP · Prompt Injection Defence
+
+**Databases:** PostgreSQL · Azure Cosmos DB · MongoDB · MySQL · SQL Server · Prisma · Redis · Alembic
+
+**Testing & Quality:** Jest · Vitest · React Testing Library · Playwright · Cypress · TDD · BDD · E2E Testing · DeepEval · Ragas
+
+**Practices:** Agile · Scrum · Kanban · Infrastructure as Code · Twelve-Factor App · API-First Architecture · Security Hardening · Code Review · Mentoring
+
+---
+
+## Professional Experience
+
+| Role | Organisation | Period |
+|------|--------------|--------|
+| **Senior Full-Stack Engineer & Azure AI Solutions Consultant** | Freelance · Remote, UK | Sep 2025 – Present |
+| **Azure AI Solutions Consultant** | Hecate Technologies Limited | Jan 2026 – Jun 2026 |
+| **Senior Software Engineer** | IPCortex Ltd | May 2024 – Jul 2025 |
+| **Senior Product Engineer (Contract)** | British Gas | May 2019 – Jan 2024 |
+| **Full Stack Developer** | CityFleet Networks Ltd | Feb 2017 – Apr 2019 |
+
+**Notable outcomes:** 95% reduction in product bugs (IPCortex) · 40% page load improvement · 90% documentation search time reduction via RAG microservices · 30% reduction in misdirected customer queries (British Gas) · Led frontend rebuild of OAM dashboard used by millions of customers
+
+---
+
+## Certifications
+
+- **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
+- FastAPI, REST APIs, OAuth, JWT (Udemy)
+- Next.js & React Advanced Development (Udemy)
+- Testing Next.js Apps with Jest, Testing Library and Cypress (Udemy)
+- *Pursuing: Azure Developer Associate (AZ-204)*
+
+---
+
+## Tech Stack
+
+### Frontend & UI
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+
+### Backend & APIs
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+### Cloud, AI & Data
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Azure_AI_Services-412991?style=flat&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-1C3C3C?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-pgvector-336791?style=flat&logo=postgresql&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Testing & DevOps
+![Playwright](https://img.shields.io/badge/Playwright-E2E-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-Vitest-C21325?style=flat&logo=jest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-BDD-69D3A7?style=flat&logo=cypress&logoColor=white)
+
+---
+
+## Featured Repositories
+
+[![qasir-profile-ai](https://github-readme-stats.vercel.app/api/pin/?username=qasirdev&repo=qasir-profile-ai&theme=radical)](https://github.com/qasirdev/qasir-profile-ai)
+[![job-discovery](https://github-readme-stats.vercel.app/api/pin/?username=qasirdev&repo=job-discovery&theme=radical)](https://github.com/qasirdev/job-discovery)
+[![daily-briefing](https://github-readme-stats.vercel.app/api/pin/?username=qasirdev&repo=daily-briefing&theme=radical)](https://github.com/qasirdev/daily-briefing)
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qasirdev&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qasirdev&layout=donut&theme=radical&hide_border=true)
+
+---
+
+## Connect
+
+| Channel | Link |
+|---------|------|
+| **Portfolio** | [qasir.co.uk](https://www.qasir.co.uk) |
+| **ATS Resume** | [qasir.co.uk/resume.txt](https://www.qasir.co.uk/resume.txt) |
+| **LinkedIn** | [linkedin.com/in/qasir](https://www.linkedin.com/in/qasir) |
+| **GitHub** | [github.com/qasirdev](https://github.com/qasirdev) |
+| **Email** | [qasirdev@gmail.com](mailto:qasirdev@gmail.com) · [hello@qasir.co.uk](mailto:hello@qasir.co.uk) |
+
+---
+
+## Target Roles
+
+Senior Full-Stack Developer · Senior Frontend Developer · AI Engineer · Azure AI Engineer · Python FastAPI Developer · Next.js Developer · React Developer · Technical Lead · Solutions Architect
+
+---
+
+*Building modern SaaS products, AI-enabled platforms, and production-grade systems where frontend, backend, and applied AI meet.*
