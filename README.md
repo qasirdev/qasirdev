@@ -2,7 +2,7 @@
 
 # Qasir Mehmood
 
-**Senior Full-Stack Developer · Azure AI Engineer (AI-102) **  
+## Senior Full-Stack Developer · Azure AI Engineer (AI-102)  
 *Next.js · React · TypeScript · Python · FastAPI · Microsoft Azure · Generative AI · RAG · Agentic AI*
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Senior%20Full--Stack%20%7C%20AI%20Engineer-00C853?style=for-the-badge)](https://www.linkedin.com/in/qasir/)
