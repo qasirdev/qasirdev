@@ -152,7 +152,7 @@ Building open-source-adjacent platforms to stay current with **2026 engineering 
 | **ATS Resume** | [qasir.co.uk/resume.txt](https://www.qasir.co.uk/resume.txt) |
 | **LinkedIn** | [linkedin.com/in/qasir](https://www.linkedin.com/in/qasir) |
 | **GitHub** | [github.com/qasirdev](https://github.com/qasirdev) |
-| **Email** | [qasirdev@gmail.com](mailto:qasirdev@gmail.com) · [hello@qasir.co.uk](mailto:hello@qasir.co.uk) |
+| **Email** | [qasirdev@gmail.com](mailto:qasirdev@gmail.com) |
 
 ---
 
